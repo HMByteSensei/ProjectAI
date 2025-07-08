@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1hvVVavIFpPWGlqYM5OLwYg_RmIrw97oO
 """
 
-# Istekla veza pa pise greska dole pri pokretanju iako je nije bilo
-# slucajno opet pokrenuo kod i ne prepoznaje sta je df u fazi 5, ali kada se ide redom radi sve
-
 # ==============================================================================
 # FAZA 1: PRIPREMA OKRUŽENJA
 # ==============================================================================
